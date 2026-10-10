@@ -1,0 +1,6 @@
+{
+  "name": "Where Find Me",
+  "description": "A reverse Turing verification challenge game where you must prove your organic humanity through messy mouse movements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
